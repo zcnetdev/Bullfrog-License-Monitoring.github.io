@@ -1,0 +1,7 @@
+{
+  "orgs": [
+    { "orgId": "PASTE_CUSTOMER_ORG_ID_1", "name": "Customer 1" },
+    { "orgId": "PASTE_CUSTOMER_ORG_ID_2", "name": "Customer 2" }
+  ]
+}
+
